@@ -1,0 +1,20 @@
+*{
+    font-family: "nova fonte";
+    src: url(Pokemon\ Solid.ttf);
+    text-align: center; 
+}
+
+
+
+@font-face {font-family: "nova fonte";
+src: url(Pokemon\ Solid.ttf); }
+
+@font-face {
+    font-family: "fonte2";
+    src: url('Pokemon Hollow.ttf');
+}
+
+img {
+    display: block;
+    margin: auto;
+}
